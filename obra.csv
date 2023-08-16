@@ -1,0 +1,8 @@
+"obra_id","obra_autor","obra_act","obra_tipo","obra_prefijo","obra_nombre","obra_anio","obra_metodo","obra_material","obra_venta","obra_existencia","obra_largoCm","obra_anchoCm","obra_fondoCm","obra_pesoGr","obra_precio","obra_obs_Obra","obra_obs_Metodo","obra_obs_Venta"
+"1","1","1","Mad","madera1","Madera1","2021","Talla en madera","Cedro Rojo","1","1","100.00","20.00","30.00","150.00","150000.00",NULL,NULL,NULL
+"2","1","1","Mad","madera2","Madera 2","2021","Talla en madera","Cedro Rojo","1","1","100.00","20.00","30.00","150.00","150000.00",NULL,NULL,NULL
+"3","1","1","Mad","madera3","Madera 3","2021","Talla en madera","Cedro Rojo","1","1","100.00","20.00","30.00","150.00","150000.00",NULL,NULL,NULL
+"4","1","1","Bro","Izuly","Izuly","2022","Cera perdida","Bronce","1","1","100.00","20.00","30.00","150.00","150000.00",NULL,NULL,NULL
+"5","1","1","Bro","toro","El Toro","2022","Cera perdida","Bronce","1","1","100.00","20.00","30.00","150.00","150000.00",NULL,NULL,NULL
+"6","1","1","Bro","bronce1","Bronce uno","2022","Cera perdida","Bronce","0","1","100.00","20.00","30.00","150.00","150000.00",NULL,NULL,NULL
+"7","1","1","Bro","bronce2","Bronce dos","2022","Cera perdida","Bronce","0","1","100.00","20.00","30.00","150.00","150000.00",NULL,NULL,NULL
